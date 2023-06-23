@@ -1,4 +1,4 @@
-# gocompiler-project
+# gocompiler project
 
 ## Project done under the course Compilers at the University of Coimbra.
 
